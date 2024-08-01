@@ -1,6 +1,6 @@
 # chess bot [work in progress]
 
-A simple ai chess bot.
+A simple chess bot.
 
 # todo
 
