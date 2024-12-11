@@ -1,4 +1,4 @@
-# chess bot [work in progress]
+# chess bot
 
 A simple chess bot.
 
